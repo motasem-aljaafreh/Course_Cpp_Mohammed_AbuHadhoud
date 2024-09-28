@@ -1,2 +1,4 @@
-# resolve_basic_tasks_cpp
-Resolve Basic Tasks in C++
+# Resolve_Basic_Tasks_Cpp
+# Resolve Basic Tasks in C++ 
+First level in C++ programming language
+
