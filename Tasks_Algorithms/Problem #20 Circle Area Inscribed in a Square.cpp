@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <cmath>
 using namespace std;
 
 int main()
@@ -10,7 +11,8 @@ int main()
 	cin >> a;
 	float area = (PI * a * a) / 4;
 
-	cout << "The are of the circle is: " << area << endl;
+	cout << "The are of the circle is: " << ceil(area) << endl;
+
 
 
 
